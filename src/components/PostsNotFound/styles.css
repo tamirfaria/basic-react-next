@@ -1,0 +1,13 @@
+.posts-not-found-container {
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #888;
+  text-transform: uppercase;
+}
+
+.posts-not-found-container img {
+margin-top: 30px;
+}
